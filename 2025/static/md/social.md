@@ -1,16 +1,16 @@
 # Top Social Engineering Techniques Used by Cybercriminals: The Human Hacking Playbook
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/man.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/man.png)  
 
 ## Introduction: When Humans Become the Weakest Link
 
-Forget complex algorithms and sophisticated hacking tools. The most powerful weapon in a cybercriminal's arsenal is often something much simpler: human psychology. Social engineering isn't about breaking through firewalls â€“ it's about breaking down human defenses. By exploiting basic human emotions such as trust, fear, or curiosity, attackers can manipulate individuals into divulging sensitive information or performing actions that compromise security systems. Understanding these techniques is crucial in building awareness and fortifying our defenses against such psychological manipulation.
+Forget complex algorithms and sophisticated hacking tools. The most powerful weapon in a cybercriminal's arsenal is often something much simpler: human psychology. Social engineering isn't about breaking through firewalls – it's about breaking down human defenses. By exploiting basic human emotions such as trust, fear, or curiosity, attackers can manipulate individuals into divulging sensitive information or performing actions that compromise security systems. Understanding these techniques is crucial in building awareness and fortifying our defenses against such psychological manipulation.
 
 ## The Magnificent (and Terrifying) World of Social Engineering
 
 ### 1. Phishing: The Digital Bait and Switch
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/phish.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/phish.png)  
 
 #### How It Works
 
@@ -28,7 +28,7 @@ Phishing succeeds because it preys on natural human responses. The messages are 
 
 ### 2. Pretexting: The Art of Elaborate Storytelling
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/pre.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/pre.png)  
 
 #### The Technique
 
@@ -47,11 +47,11 @@ Pretexting works because it taps into our natural tendencies to help and be poli
 
 ### 3. Baiting: The Irresistible Digital Trap
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/bait.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/bait.png)  
 
 #### How Criminals Operate
 
-Offer something too good to resist â€“ a free movie download, a USB drive left strategically in a parking lot, or a too-good-to-be-true offer. This classic baiting technique relies on exploiting human curiosity or greed. Once the victim takes the bait, malicious software can be installed, or sensitive information can be harvested.
+Offer something too good to resist – a free movie download, a USB drive left strategically in a parking lot, or a too-good-to-be-true offer. This classic baiting technique relies on exploiting human curiosity or greed. Once the victim takes the bait, malicious software can be installed, or sensitive information can be harvested.
 
 **Real Incident:** The USB Drop Experiment
 
@@ -65,7 +65,7 @@ Baiting exploits basic human instincts such as curiosity and the allure of getti
 
 ### 4. Tailgating: The Physical Infiltration Technique
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/tail.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/tail.png)  
 
 #### The Method
 
@@ -105,7 +105,7 @@ Tailgating succeeds because humans naturally avoid confrontation and strive to b
 - Use multi-factor authentication: Adding an extra layer of security reduces the effectiveness of compromised credentials.
 - Regular cybersecurity training: Staying informed about the latest threats and practicing good cyber hygiene is essential for maintaining security.
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/soc.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/soc.png)  
 
 ## Shocking Statistics
 
@@ -113,21 +113,21 @@ Tailgating succeeds because humans naturally avoid confrontation and strive to b
 - Average cost of a social engineering attack: $130,000.
 - 1 in 3 employees will click on a phishing email, highlighting the critical need for awareness and training.
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/social/awar.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/social/awar.png)  
 
 ## Conclusion: Knowledge is Your Best Defense
 
-Social engineering isn't magic â€“ it's psychology with malicious intent. By understanding these techniques, you transform from a potential victim to a human firewall. Awareness and education are the most powerful tools to counteract these manipulative strategies. When we question everything, verify independently, and stay informed, we close the door on cybercriminals and fortify our digital and physical defenses.
+Social engineering isn't magic – it's psychology with malicious intent. By understanding these techniques, you transform from a potential victim to a human firewall. Awareness and education are the most powerful tools to counteract these manipulative strategies. When we question everything, verify independently, and stay informed, we close the door on cybercriminals and fortify our digital and physical defenses.
 
 ### Quick Defense Checklist
 
-- âœ… Question everything
-- âœ… Verify independently
-- âœ… Trust your instincts
-- âœ… Stay informed
-- âœ… Never act in panic
+- ✅ Question everything
+- ✅ Verify independently
+- ✅ Trust your instincts
+- ✅ Stay informed
+- ✅ Never act in panic
 
-Stay smart, stay safe! ðŸ—­ï¸ðŸ§ 
+Stay smart, stay safe! 🗭️🧠
 
 *Disclaimer: This guide is for educational purposes. Cybercriminals, please don't take notes.*
 

@@ -1,19 +1,19 @@
-# HAM Radio: When All Other Communication Fails, Hams Save the Day ðŸ“¡
+# HAM Radio: When All Other Communication Fails, Hams Save the Day 📡
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/hamradio/ham.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/hamradio/ham.png)  
 *When cell towers fall, HAM radio operators rise*  
 
 ## The Unsung Heroes of Communication  
 
-In a world where smartphones dominate our lives, where social media updates travel at the speed of light, and instant messaging has become second nature, itâ€™s easy to overlook the humble HAM radio. Yet, when disaster strikes, and modern communication systems crumble, a group of dedicated individuals steps up to keep the world connected: HAM radio operators.  
+In a world where smartphones dominate our lives, where social media updates travel at the speed of light, and instant messaging has become second nature, it’s easy to overlook the humble HAM radio. Yet, when disaster strikes, and modern communication systems crumble, a group of dedicated individuals steps up to keep the world connected: HAM radio operators.  
 
-Far from being just a hobby, amateur radio serves as a lifeline in emergencies, bridging gaps when all else fails. These unsung heroes play an essential role in saving lives, coordinating relief efforts, and offering hope when itâ€™s needed the most.  
+Far from being just a hobby, amateur radio serves as a lifeline in emergencies, bridging gaps when all else fails. These unsung heroes play an essential role in saving lives, coordinating relief efforts, and offering hope when it’s needed the most.  
 
 ---
 
 ## What is HAM Radio?  
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/hamradio/hamradio.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/hamradio/hamradio.png)  
 
 Amateur radio, or HAM radio, is a unique communication system that uses designated radio frequencies to transmit voice, data, and even images. What sets it apart from traditional communication methods is its independence. Unlike cell phones or the internet, HAM radio operates without relying on external infrastructure like cell towers or satellites.  
 
@@ -25,12 +25,12 @@ This capability makes it a critical tool in disaster scenarios where such infras
 
 ### Hurricane Katrina (2005): Communication When All Hope Was Lost  
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/hamradio/hurricane.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/hamradio/hurricane.png)  
 *When cell towers became useless, HAM radio became survival*  
 
 When Hurricane Katrina struck, it unleashed unprecedented devastation across the Gulf Coast, particularly in New Orleans. The disaster not only displaced millions but also wiped out the region's communication infrastructure.  
 
-With no cell towers, landlines, or internet, emergency responders found themselves struggling to coordinate rescue efforts. Thatâ€™s when over 1,000 HAM radio operators stepped in, providing vital communication links that saved lives.  
+With no cell towers, landlines, or internet, emergency responders found themselves struggling to coordinate rescue efforts. That’s when over 1,000 HAM radio operators stepped in, providing vital communication links that saved lives.  
 
 #### Key Contributions:
 - **Extended Deployment:** HAM operators worked tirelessly for 17 days straight, ensuring consistent communication.  
@@ -39,13 +39,13 @@ With no cell towers, landlines, or internet, emergency responders found themselv
 
 **Personal Story:**  
 John Martinez, a veteran HAM operator, recalled his experience:  
-*"When everything went dark, our radios were the only way families could confirm their loved ones were alive. We werenâ€™t just transmitting messages; we were transmitting hope."*  
+*"When everything went dark, our radios were the only way families could confirm their loved ones were alive. We weren’t just transmitting messages; we were transmitting hope."*  
 
 ---
 
 ### 2011 Tohoku Earthquake and Tsunami, Japan  
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/hamradio/jap.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/hamradio/jap.png)  
 *When technology failed, human resilience prevailed*  
 
 The 2011 Tohoku earthquake and tsunami devastated Japan, causing massive destruction to infrastructure, including communication networks. HAM radio operators quickly mobilized to fill the void, proving instrumental in the early disaster response.  
@@ -61,7 +61,7 @@ Despite the overwhelming challenges, these operators showcased the power of huma
 
 ### California Wildfires (2018-2020): Battling Communication Blackouts  
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/hamradio/cali.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/hamradio/cali.png)  
 *Caption: When smoke and flames block signals, HAM radio breaks through*  
 
 As wildfires ravaged California, the state's communication infrastructure often failed under the intense conditions. Once again, HAM radio operators stepped in, bridging critical gaps.  
@@ -72,13 +72,13 @@ As wildfires ravaged California, the state's communication infrastructure often 
 - **Backup for First Responders:** When official communication systems were overloaded, HAM operators ensured critical messages got through.  
 
 One volunteer described their efforts:  
-*"We tracked the fireâ€™s movements and guided evacuation efforts when every second counted."*  
+*"We tracked the fire’s movements and guided evacuation efforts when every second counted."*  
 
 ---
 
 ## The Technical Magic Behind HAM Radio  
 
-HAM radioâ€™s reliability in emergencies isnâ€™t magicâ€”itâ€™s rooted in some fundamental advantages:  
+HAM radio’s reliability in emergencies isn’t magic—it’s rooted in some fundamental advantages:  
 
 ### Infrastructure Independence  
 - **No Reliance on Towers or Networks:** Operates independently, making it immune to infrastructure failures.  
@@ -98,13 +98,13 @@ HAM radioâ€™s reliability in emergencies isnâ€™t magicâ€”itâ€�
 
 ## Getting Involved: How to Become a HAM Radio Operator  
 
-![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/hamradio/hammeme.png)  
+![](https://raw.githubusercontent.com/SeedonD/SeedonD.github.io/refs/heads/master/2025/static/media/blogs/hamradio/hammeme.png)  
 
 If HAM radio sounds intriguing, you can join this resilient community in just a few steps:  
 
 ### Licensing and Training  
-- **Obtain an Amateur Radio License:** In the U.S., three license levelsâ€”Technician, General, and Amateur Extraâ€”offer increasing privileges. Each requires passing a straightforward technical exam.  
-- **Affordable Entry:** Getting started doesnâ€™t break the bank, and many resources are available for beginners.  
+- **Obtain an Amateur Radio License:** In the U.S., three license levels—Technician, General, and Amateur Extra—offer increasing privileges. Each requires passing a straightforward technical exam.  
+- **Affordable Entry:** Getting started doesn’t break the bank, and many resources are available for beginners.  
 
 ### Training Programs  
 - **Local Clubs:** Amateur radio clubs provide hands-on training and mentorship.  
@@ -120,7 +120,7 @@ If HAM radio sounds intriguing, you can join this resilient community in just a 
 
 ## Global Impact: HAM Radio in International Emergencies  
 
-HAM radio isnâ€™t just a local lifelineâ€”itâ€™s a global connector.  
+HAM radio isn’t just a local lifeline—it’s a global connector.  
 
 ### Notable Interventions  
 
@@ -159,7 +159,7 @@ In an increasingly digital and interconnected world, HAM radio serves as a remin
 
 ---
 
-### Call to Action ðŸš¨  
+### Call to Action 🚨  
 
 - Learn more about amateur radio.  
 - Get licensed and join the community.  
@@ -168,8 +168,8 @@ In an increasingly digital and interconnected world, HAM radio serves as a remin
 
 Share this post:  
 
-- ðŸ¦ **Tweet** to raise awareness about HAM radio.  
-- ðŸ“± **Share** with emergency preparedness groups.  
-- ðŸ“§ **Email** to anyone passionate about disaster resilience.  
+- 🐦 **Tweet** to raise awareness about HAM radio.  
+- 📱 **Share** with emergency preparedness groups.  
+- 📧 **Email** to anyone passionate about disaster resilience.  
 
-When it comes to crises, communication isnâ€™t just a toolâ€”itâ€™s the key to survival. Be the difference. Join the HAM radio revolution today!  
+When it comes to crises, communication isn’t just a tool—it’s the key to survival. Be the difference. Join the HAM radio revolution today!  
