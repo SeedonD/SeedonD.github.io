@@ -1,4 +1,4 @@
-# ﻿FLIPPER ZERO
+# ï»¿FLIPPER ZERO
 
 ### Sub GHz Module
 
@@ -21,11 +21,11 @@ It is used generally for wireless communication, where low power consumption and
 
 The range may exceed depending upon the hardware strength and obstacles. It can easily reach several hundreds of meters indoors and depending on the conditions, several kilometers outdoors; whereas, the maximum range of WiFi or Bluetooth 2.4 GHz wireless transmitter can be up to 200 meters indoors and 400 meters outdoors.
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot1.png)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot1.png)
 
 2\.Compatible protocols (433MHz, 315MHz, etc.)
 
-300–450 MHz: Common in industrial and military applications.
+300â€“450 MHz: Common in industrial and military applications.
 
 433 MHz (ISM Band): Widely used in Europe for *ISM* devices.
 
@@ -47,17 +47,17 @@ Go through the Menu button of flipper zero, the central, circular button.
 
 **OK button:** launching apps and confirming the selection. Select the **Sub-GHz** option there.
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot2.jpeg)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot2.jpeg)
 
-Go for **Read Raw** option. There flipper zero captures the signal within its supported Sub-GHz range.![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot3.jpeg)
+Go for **Read Raw** option. There flipper zero captures the signal within its supported Sub-GHz range.![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot3.jpeg)
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot4.jpeg)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot4.jpeg)
 
 Start sending the signals from the remote/transmitter. It will show some graphical view, once it has received the signals.
 
 Stop the signal and there you capture the signal for further use. Now you can also **Send** the signal using replaying it.
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot5.jpeg)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot5.jpeg)
 
 Save the captured signal by naming the file.
 
@@ -70,7 +70,7 @@ Replay the Sub-GHz Signal
    1. Select **Saved Signals** and locate the file you captured earlier.
 1. **Replay the Signal**:
 - Select the signal and choose **Replay**.
-- Hold the Flipper Zero near the receiver device (like here the car doors/sensors/lights/sound).![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot6.jpeg)
+- Hold the Flipper Zero near the receiver device (like here the car doors/sensors/lights/sound).![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot6.jpeg)
 - The signal will be transmitted, replicating the effect of the original remote.
 - Observe the response of the target device.
 - If it works, the device should respond as if the original remote was used.
@@ -87,7 +87,7 @@ Frequency Analyzer:
    1. Each peak represents a frequency where an active transmission has been detected.
 1. **Assist in Signal Capture**: By identifying the frequency of a signal, users can focus their efforts on capturing or analyzing the transmission (e.g., a remote control signal at 433.92 MHz).
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot7.jpeg)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot7.jpeg)
 
 **How to Use the Frequency Analyzer on Flipper Zero**
 
@@ -106,7 +106,7 @@ Frequency Analyzer:
 1. **Preparation for Signal Capture**: Identify frequencies to focus on for capturing and replaying signals.
 1. **Troubleshooting**: Diagnose issues with RF devices by checking if they transmit correctly.
 
-When using the Frequency Analyzer feature of the Flipper Zero, it provides four key values because these are essential parameters to characterize and understand the detected signal. Here’s what these values represent and why they are displayed:
+When using the Frequency Analyzer feature of the Flipper Zero, it provides four key values because these are essential parameters to characterize and understand the detected signal. Hereâ€™s what these values represent and why they are displayed:
 
 1. **Frequency**
 
@@ -144,7 +144,7 @@ Useful for troubleshooting (e.g., weak signals may require closer capture or an 
 
 (Here you can set the threshold of RSSI) below that, the signals will be filtered. Hence giving you clear value and view. Other settings also you can customize here in **Config** option)
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot8.jpeg)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot8.jpeg)
 
 4. **Activity**
 
@@ -171,12 +171,12 @@ Example of Using Frequency Analyzer Values
    1. Signal Strength: -40 dBm (strong).
    1. Activity: Intermittent bursts.
 1. Next Steps:
-- Use the Flipper Zero’s Sub-GHz app to capture the signal with the detected parameters.
+- Use the Flipper Zeroâ€™s Sub-GHz app to capture the signal with the detected parameters.
 - Replay the captured signal to mimic the remote.
 
-By providing these four values, the Flipper Zero’s frequency analyzer simplifies the process of identifying and working with RF signals in the Sub-GHz spectrum.
+By providing these four values, the Flipper Zeroâ€™s frequency analyzer simplifies the process of identifying and working with RF signals in the Sub-GHz spectrum.
 
-![](https://raw.githubusercontent.com/seedon198/seedon198.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot9.jpeg)
+![](https://raw.githubusercontent.com/SeedonD/seedond.github.io/refs/heads/master/static/media/blogs/FLIPPER%20ZERO/screenshot9.jpeg)
 
 Safety and legal considerations:
 
